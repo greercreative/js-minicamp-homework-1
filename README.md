@@ -5,7 +5,7 @@
 1. Feynman Writing Prompts - Write out explanations of the following concepts like you are explaining it to a 12 year old.  Doing this will help you quickly discover any holes in your understanding.  Ask your questions on Slack.
 		
 	* Variables
-		- Variable contain values. They can be words, numbers of boolean. Use the keyword "var" to create and define a variable. Ex: var variableName = 'Value';
+		- Variable contain values. They can be words, numbers or boolean. Use the keyword "var" to create and define a variable. Ex: var variableName = 'Value';
 	* Strings
 		- Strings are values represented in text. It is best to contain the string value in single quotes for examples a variable could be defined as my name. var myName = 'Greer';
 	* Functions (arguments, `return`)
